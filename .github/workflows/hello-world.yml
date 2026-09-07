@@ -7,6 +7,3 @@ jobs:
     steps:
       - name: Run script
         run: echo "Hello, World!"
-
-- name: Set up JDK
-  uses: actions/setup-java@<dd06d9cba3e5552c54d9f8ea23572deb30010f7c> # <v6.0.0>, <24/07-2026>
